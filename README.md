@@ -26,7 +26,7 @@ All these libraries can all be installed using the "Pip" command
 
 ## How to use 
 
-To run the Object Detection Script, all you'd have to do is simply download this repository, and in the edit the PATHs in the script, 
+To run the Object Detection Script, all you'd have to do is simply download this repository, and edit the PATHs in the script, 
 
 ***PipelinePATH*** : this points to the "pipeline.config" file seen in the folder in this project
 
