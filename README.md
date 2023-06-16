@@ -30,7 +30,7 @@ To run the Object Detection Script, all you'd have to do is simply download this
 
 ***PipelinePATH*** : this points to the "pipeline.config" file seen in the folder in this project
 
-***ModelPATH*** : this points to the model folder seen in this project, "FaceMastDetectorV1"
+***ModelPATH*** : this points to the model folder seen in this project, the "saved_model" folder found in the "FaceMastDetectorV1" folder
 
 ***LabelMapPATH*** : this points to the text file containing the classes of the detector seen in the folder in this project, "Face-mask_label_map.pbtxt"
 
@@ -39,6 +39,7 @@ To run the Object Detection Script, all you'd have to do is simply download this
 
 ## Example Output
 
+![image](https://github.com/EnochEssien/Tensorflow_FaceMask_ObjectDetector/assets/91120304/a05c8202-3977-41af-9059-b3325cd5ade8)
 
 
 
